@@ -1,10 +1,3 @@
-"""
-Model exported as python.
-Name : MorphoMap
-Group : OStools
-With QGIS : 32214
-"""
-
 from qgis.core import QgsProcessing
 from qgis.core import QgsProcessingAlgorithm
 from qgis.core import QgsProcessingMultiStepFeedback
